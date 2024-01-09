@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\pgu\Марков_2_курс\ConsoleApp1_m2\ConsoleApp1_m2\bin\Debug\netcoreapp3.1\ConsoleApp1_m2.exe
+C:\Users\User\Desktop\pgu\Марков_2_курс\ConsoleApp1_m2\ConsoleApp1_m2\bin\Debug\netcoreapp3.1\ConsoleApp1_m2.deps.json
+C:\Users\User\Desktop\pgu\Марков_2_курс\ConsoleApp1_m2\ConsoleApp1_m2\bin\Debug\netcoreapp3.1\ConsoleApp1_m2.runtimeconfig.json
+C:\Users\User\Desktop\pgu\Марков_2_курс\ConsoleApp1_m2\ConsoleApp1_m2\bin\Debug\netcoreapp3.1\ConsoleApp1_m2.runtimeconfig.dev.json
+C:\Users\User\Desktop\pgu\Марков_2_курс\ConsoleApp1_m2\ConsoleApp1_m2\bin\Debug\netcoreapp3.1\ConsoleApp1_m2.dll
+C:\Users\User\Desktop\pgu\Марков_2_курс\ConsoleApp1_m2\ConsoleApp1_m2\bin\Debug\netcoreapp3.1\ConsoleApp1_m2.pdb
+C:\Users\User\Desktop\pgu\Марков_2_курс\ConsoleApp1_m2\ConsoleApp1_m2\obj\Debug\netcoreapp3.1\ConsoleApp1_m2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\pgu\Марков_2_курс\ConsoleApp1_m2\ConsoleApp1_m2\obj\Debug\netcoreapp3.1\ConsoleApp1_m2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pgu\Марков_2_курс\ConsoleApp1_m2\ConsoleApp1_m2\obj\Debug\netcoreapp3.1\ConsoleApp1_m2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pgu\Марков_2_курс\ConsoleApp1_m2\ConsoleApp1_m2\obj\Debug\netcoreapp3.1\ConsoleApp1_m2.AssemblyInfo.cs
+C:\Users\User\Desktop\pgu\Марков_2_курс\ConsoleApp1_m2\ConsoleApp1_m2\obj\Debug\netcoreapp3.1\ConsoleApp1_m2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pgu\Марков_2_курс\ConsoleApp1_m2\ConsoleApp1_m2\obj\Debug\netcoreapp3.1\ConsoleApp1_m2.dll
+C:\Users\User\Desktop\pgu\Марков_2_курс\ConsoleApp1_m2\ConsoleApp1_m2\obj\Debug\netcoreapp3.1\ConsoleApp1_m2.pdb
+C:\Users\User\Desktop\pgu\Марков_2_курс\ConsoleApp1_m2\ConsoleApp1_m2\obj\Debug\netcoreapp3.1\ConsoleApp1_m2.genruntimeconfig.cache

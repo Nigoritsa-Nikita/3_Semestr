@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_3_Currency\Ex_3_Currency\bin\Debug\netcoreapp3.1\Ex_3_Currency.exe
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_3_Currency\Ex_3_Currency\bin\Debug\netcoreapp3.1\Ex_3_Currency.deps.json
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_3_Currency\Ex_3_Currency\bin\Debug\netcoreapp3.1\Ex_3_Currency.runtimeconfig.json
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_3_Currency\Ex_3_Currency\bin\Debug\netcoreapp3.1\Ex_3_Currency.runtimeconfig.dev.json
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_3_Currency\Ex_3_Currency\bin\Debug\netcoreapp3.1\Ex_3_Currency.dll
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_3_Currency\Ex_3_Currency\bin\Debug\netcoreapp3.1\Ex_3_Currency.pdb
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_3_Currency\Ex_3_Currency\obj\Debug\netcoreapp3.1\Ex_3_Currency.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_3_Currency\Ex_3_Currency\obj\Debug\netcoreapp3.1\Ex_3_Currency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_3_Currency\Ex_3_Currency\obj\Debug\netcoreapp3.1\Ex_3_Currency.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_3_Currency\Ex_3_Currency\obj\Debug\netcoreapp3.1\Ex_3_Currency.AssemblyInfo.cs
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_3_Currency\Ex_3_Currency\obj\Debug\netcoreapp3.1\Ex_3_Currency.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_3_Currency\Ex_3_Currency\obj\Debug\netcoreapp3.1\Ex_3_Currency.dll
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_3_Currency\Ex_3_Currency\obj\Debug\netcoreapp3.1\Ex_3_Currency.pdb
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_3_Currency\Ex_3_Currency\obj\Debug\netcoreapp3.1\Ex_3_Currency.genruntimeconfig.cache

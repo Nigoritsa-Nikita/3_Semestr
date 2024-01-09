@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_4_Upokovki-Raspokovki\Ex_4_Upokovki-Raspokovki\bin\Debug\netcoreapp3.1\Ex_4_Upokovki-Raspokovki.exe
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_4_Upokovki-Raspokovki\Ex_4_Upokovki-Raspokovki\bin\Debug\netcoreapp3.1\Ex_4_Upokovki-Raspokovki.deps.json
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_4_Upokovki-Raspokovki\Ex_4_Upokovki-Raspokovki\bin\Debug\netcoreapp3.1\Ex_4_Upokovki-Raspokovki.runtimeconfig.json
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_4_Upokovki-Raspokovki\Ex_4_Upokovki-Raspokovki\bin\Debug\netcoreapp3.1\Ex_4_Upokovki-Raspokovki.runtimeconfig.dev.json
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_4_Upokovki-Raspokovki\Ex_4_Upokovki-Raspokovki\bin\Debug\netcoreapp3.1\Ex_4_Upokovki-Raspokovki.dll
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_4_Upokovki-Raspokovki\Ex_4_Upokovki-Raspokovki\bin\Debug\netcoreapp3.1\Ex_4_Upokovki-Raspokovki.pdb
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_4_Upokovki-Raspokovki\Ex_4_Upokovki-Raspokovki\obj\Debug\netcoreapp3.1\Ex_4_Upokovki-Raspokovki.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_4_Upokovki-Raspokovki\Ex_4_Upokovki-Raspokovki\obj\Debug\netcoreapp3.1\Ex_4_Upokovki-Raspokovki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_4_Upokovki-Raspokovki\Ex_4_Upokovki-Raspokovki\obj\Debug\netcoreapp3.1\Ex_4_Upokovki-Raspokovki.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_4_Upokovki-Raspokovki\Ex_4_Upokovki-Raspokovki\obj\Debug\netcoreapp3.1\Ex_4_Upokovki-Raspokovki.AssemblyInfo.cs
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_4_Upokovki-Raspokovki\Ex_4_Upokovki-Raspokovki\obj\Debug\netcoreapp3.1\Ex_4_Upokovki-Raspokovki.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_4_Upokovki-Raspokovki\Ex_4_Upokovki-Raspokovki\obj\Debug\netcoreapp3.1\Ex_4_Upokovki-Raspokovki.dll
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_4_Upokovki-Raspokovki\Ex_4_Upokovki-Raspokovki\obj\Debug\netcoreapp3.1\Ex_4_Upokovki-Raspokovki.pdb
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_4_Upokovki-Raspokovki\Ex_4_Upokovki-Raspokovki\obj\Debug\netcoreapp3.1\Ex_4_Upokovki-Raspokovki.genruntimeconfig.cache

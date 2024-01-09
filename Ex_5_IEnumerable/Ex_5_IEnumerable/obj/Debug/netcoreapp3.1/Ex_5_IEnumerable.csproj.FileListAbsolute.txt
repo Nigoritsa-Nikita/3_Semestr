@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_5_IEnumerable\Ex_5_IEnumerable\bin\Debug\netcoreapp3.1\Ex_5_IEnumerable.exe
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_5_IEnumerable\Ex_5_IEnumerable\bin\Debug\netcoreapp3.1\Ex_5_IEnumerable.deps.json
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_5_IEnumerable\Ex_5_IEnumerable\bin\Debug\netcoreapp3.1\Ex_5_IEnumerable.runtimeconfig.json
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_5_IEnumerable\Ex_5_IEnumerable\bin\Debug\netcoreapp3.1\Ex_5_IEnumerable.runtimeconfig.dev.json
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_5_IEnumerable\Ex_5_IEnumerable\bin\Debug\netcoreapp3.1\Ex_5_IEnumerable.dll
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_5_IEnumerable\Ex_5_IEnumerable\bin\Debug\netcoreapp3.1\Ex_5_IEnumerable.pdb
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_5_IEnumerable\Ex_5_IEnumerable\obj\Debug\netcoreapp3.1\Ex_5_IEnumerable.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_5_IEnumerable\Ex_5_IEnumerable\obj\Debug\netcoreapp3.1\Ex_5_IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_5_IEnumerable\Ex_5_IEnumerable\obj\Debug\netcoreapp3.1\Ex_5_IEnumerable.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_5_IEnumerable\Ex_5_IEnumerable\obj\Debug\netcoreapp3.1\Ex_5_IEnumerable.AssemblyInfo.cs
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_5_IEnumerable\Ex_5_IEnumerable\obj\Debug\netcoreapp3.1\Ex_5_IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_5_IEnumerable\Ex_5_IEnumerable\obj\Debug\netcoreapp3.1\Ex_5_IEnumerable.dll
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_5_IEnumerable\Ex_5_IEnumerable\obj\Debug\netcoreapp3.1\Ex_5_IEnumerable.pdb
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_5_IEnumerable\Ex_5_IEnumerable\obj\Debug\netcoreapp3.1\Ex_5_IEnumerable.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_2_Figures\Ex_2_Figures\bin\Debug\netcoreapp3.1\Ex_2_Figures.exe
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_2_Figures\Ex_2_Figures\bin\Debug\netcoreapp3.1\Ex_2_Figures.deps.json
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_2_Figures\Ex_2_Figures\bin\Debug\netcoreapp3.1\Ex_2_Figures.runtimeconfig.json
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_2_Figures\Ex_2_Figures\bin\Debug\netcoreapp3.1\Ex_2_Figures.runtimeconfig.dev.json
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_2_Figures\Ex_2_Figures\bin\Debug\netcoreapp3.1\Ex_2_Figures.dll
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_2_Figures\Ex_2_Figures\bin\Debug\netcoreapp3.1\Ex_2_Figures.pdb
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_2_Figures\Ex_2_Figures\obj\Debug\netcoreapp3.1\Ex_2_Figures.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_2_Figures\Ex_2_Figures\obj\Debug\netcoreapp3.1\Ex_2_Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_2_Figures\Ex_2_Figures\obj\Debug\netcoreapp3.1\Ex_2_Figures.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_2_Figures\Ex_2_Figures\obj\Debug\netcoreapp3.1\Ex_2_Figures.AssemblyInfo.cs
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_2_Figures\Ex_2_Figures\obj\Debug\netcoreapp3.1\Ex_2_Figures.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_2_Figures\Ex_2_Figures\obj\Debug\netcoreapp3.1\Ex_2_Figures.dll
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_2_Figures\Ex_2_Figures\obj\Debug\netcoreapp3.1\Ex_2_Figures.pdb
+C:\Users\User\Desktop\pgu\Марков_2_курс\Ex_2_Figures\Ex_2_Figures\obj\Debug\netcoreapp3.1\Ex_2_Figures.genruntimeconfig.cache
